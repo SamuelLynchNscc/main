@@ -1,0 +1,15 @@
+#cen{
+    text-align: center;
+}
+table, th, td tr{
+    border: 5px solid black;
+}
+body {
+    background-color: cornflowerblue;
+    margin: 0;
+}
+.navy {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
